@@ -36,7 +36,7 @@ function twentytwenty_parent_theme_enqueue_styles() {
 //			wp_enqueue_style('clubitsolutions_styles', get_stylesheet_uri(), NULL, microtime());
 		} else {
 			wp_enqueue_script('clubitsolutions-js', get_theme_file_uri('/js/scripts-bundled.js'), NULL, '0.1', true);
-//			wp_enqueue_style('clubitsolutions_styles', get_stylesheet_uri(), NULL,'0.1');
+			wp_enqueue_style('clubitsolutions_styles', get_stylesheet_uri(), NULL,'0.1');
 		}
 //		wp_localize_script('clubitsolutions-js', 'clubitsolutionsData', array(
 //			'root_url' => get_site_url()
