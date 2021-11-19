@@ -72,7 +72,8 @@ get_header();
 
 					<header class="entry-header has-text-align-center">
 						<div class="entry-header-inner section-inner medium">
-							<h2 class="clubitsolutions-subtitle">Webentwicklung aus Mannheim</h2>
+							<h2 class="clubitsolutions-subtitle" style="color: orangered; background-color: #0a4b78">Seite wird
+								momentan überarbeitet!</h2>
 							<ul class="clubitsolutions-offer">
 								<a href="#individuelle-beratung"><li
 										class="clubitsolutions-offer__item">
