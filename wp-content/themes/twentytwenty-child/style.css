@@ -419,7 +419,9 @@ Version:        0.1.0
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all .2s; }
+    transition: all .2s;
+    text-decoration: line-through;
+}
 .clubitsolutions-offer__item > span {
       transform: skew(15deg); }
 .clubitsolutions-offer__item:hover {
