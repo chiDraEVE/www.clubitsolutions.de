@@ -16,4 +16,4 @@ wp-content/plugins/*
 !wp-content/themes
 wp-content/themes/*
 !wp-content/themes/twentytwenty-child
-!wp-content/themes/twentytwentyone-child
+#!wp-content/themes/twentytwentyone-child
